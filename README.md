@@ -12,9 +12,10 @@
 | 08  | [Zebros Copies](08-zebros-copies)                                 |      | `58`   | 27   | 4        |       |        |      |          |
 | 09  | [SFCTA Highway Sign #4902](09-sfcta-highway-sign-4902)            | Fast | `114`  | 17   | 1        | Short | 166    | `10` | 1        |
 | 10  | [Unknown Network 1](10-unknown-network)                           |      | `24`   | 19   | 27       |       |        |      |          |
-| 11  | [UC Berkeley - EECS Department](11-uc-berkeley-eecs-department)   |      | `125`  | 37   | 7        |       |        |      |          |
+| 11  | [UC Berkeley](11-uc-berkeley)                                     |      | `125`  | 37   | 7        |       |        |      |          |
 | 12  | [Workhouse](12-workhouse)                                         | Fast | `219`  | 44   | 3        | Short | 409    | `29` | 3        |
 | 13  | [Equity First Bank](13-equity-first-bank)                         | Fast | `1146` | 50   | 10       | Short | 3024   | `15` | 10       |
 | 14  | [Mitsuzen HDI-10 - Heart](14-mitsuzen-hdi-10-heart)               |      | `87`   | 30   | 7        |       |        |      |          |
 | 15  | [Trash World News](15-trash-world-news)                           |      | `546`  | 20   | 4        |       |        |      |          |
 | 16  | [TEC Redshift](16-tec-redshift)                                   |      | `2871` | 28   | 11       |       |        |      |          |
+| 17  | [Digital Library Project](17-digital-library-project)             |      | `277`  | 33   | 87       |       |        |      |          | 
