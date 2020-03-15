@@ -21,3 +21,4 @@
 | 17  | [Digital Library Project](17-digital-library-project)             |      | `277`  | 33   | 87       |       |        |      |          |
 | 18  | [TEC EXA Blaster Modem](18-tec-exa-blaster-modem)                 |      | `162`  | 51   | 12       |       |        |      |          |
 | 19  | [Emerson's Guide](19-emersons-guide)                              |      | `39`   | 43   | 6        |       |        |      |          |
+| 20  | [Mitsuzen HDI-10 - Left Hand](06-mitsuzen-hdi-10-left-hand)       |      | `50`   | 32   | 9        |       |        |      |          |
