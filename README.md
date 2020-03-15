@@ -19,5 +19,5 @@
 | 15  | [Trash World News](15-trash-world-news)                           |      | `546`  | 20   | 4        |       |        |      |          |
 | 16  | [TEC Redshift](16-tec-redshift)                                   |      | `2871` | 28   | 11       |       |        |      |          |
 | 17  | [Digital Library Project](17-digital-library-project)             |      | `277`  | 33   | 87       |       |        |      |          |
-| 18  | [Emerson's Guide](18-emersons-guide)                              |      | `39`   | 43   | 6        |       |        |      |          |
-| 19  | [TEC EXA Blaster Modem](19-tec-exa-blaster-modem)                 |      | `162`  | 51   | 12       |       |        |      |          |
+| 18  | [TEC EXA Blaster Modem](18-tec-exa-blaster-modem)                 |      | `162`  | 51   | 12       |       |        |      |          |
+| 19  | [Emerson's Guide](19-emersons-guide)                              |      | `39`   | 43   | 6        |       |        |      |          |
